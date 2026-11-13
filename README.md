@@ -1,29 +1,7 @@
-# ಮಾತುಕತೆ - ನೀನಾಸಂ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರದ ಸಂಪರ್ಕ ಪತ್ರಿಕೆ  Digital Kannada Books
+# ಮಾತುಕತೆ - ನೀನಾಸಂ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರದ ಸಂಪರ್ಕ ಪತ್ರಿಕೆ - ಡಿಜಿಟಲ್ ಆವೃತ್ತಿಗಳು
 
-ಮಾತುಕತೆ - ನೀನಾಸಂ ರಂಗಶಿಕ್ಷಣ ಕೇಂದ್ರದ ಸಂಪರ್ಕ ಪತ್ರಿಕೆ  Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
+Digital archive hosted at **https://maathukathe.sanchaya.net**
 
-Check it out : https://sanchaya.org & https://sanchifoundation.org
+Published by ನೀನಾಸಂ ಹೆಗ್ಗೋಡು (ಸಾಗರ). Items come from Internet Archive query:
 
-## HOW TO ADD YOUR PUBLICATION
-
-If you find a nice ebook about kannada, feel free to contribute and add it in a few steps :
-
-- Paste the informations into the JSON file.
-- Please include a .png file for the cover : less than 100Ko.**
-- Make a pull request.
-
-Alternatively, you can send us an email with book infos : info@sanchaya.org
-
-Thanks per advance !
-
-## HISTORY
-
-
-## Licence
-
-The Digital Kannada Books website is licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
-
-Each book has its own licence, see book homepage.
-
-## About us
-# maathukathe
+    identifier:unset*
